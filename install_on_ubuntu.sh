@@ -1,4 +1,4 @@
-#ubuntu 18.04 AMI
+#Ubuntu 18.04 LTS – Bionic AMI
 #!/bin/bash
 #sudo apt-get update
 #sudo apt-get upgrade -y #time too long
